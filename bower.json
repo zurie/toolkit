@@ -14,6 +14,6 @@
   "dependencies": {
     "compass-breakpoint": ">=2.0.2",
     "sassy-strings": "git://github.com/Snugug/Sassy-Strings.git",
-    "color-schemer": ">=0.1.1"
+    "color-schemer": ""
   }
 }
